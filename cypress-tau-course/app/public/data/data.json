@@ -1,0 +1,61 @@
+{
+  "boards": [
+    {
+      "name": "Groceries",
+      "user": 0,
+      "id": 84800954344,
+      "starred": false,
+      "created": "2022-10-09"
+    }
+  ],
+  "tasks": [
+    {
+      "boardId": 84800954344,
+      "description": "",
+      "completed": false,
+      "listId": 84556100735,
+      "title": "bread",
+      "id": 64785365506,
+      "created": "2022-10-09",
+      "deadline": "2022-10-12",
+      "order": 1
+    },
+    {
+      "boardId": 84800954344,
+      "description": "",
+      "completed": false,
+      "listId": 84556100735,
+      "title": "milk",
+      "id": 77876110372,
+      "created": "2022-10-09",
+      "deadline": "2022-10-12",
+      "order": 0
+    },
+    {
+      "boardId": 84800954344,
+      "description": "",
+      "completed": false,
+      "listId": 84556100735,
+      "title": "cheese",
+      "id": 73042480918,
+      "created": "2022-10-09",
+      "deadline": "2022-10-12"
+    }
+  ],
+  "users": [
+    {
+      "email": "info.gerardo.chavez@gmail.com",
+      "password": "$2a$10$Ch5mCUnnA.DmKbYO0CQAeeiLEY/YIkh3fop33xAdCaUh4pC4WvR2G",
+      "id": 1
+    }
+  ],
+  "lists": [
+    {
+      "boardId": 84800954344,
+      "title": "to buy",
+      "id": 84556100735,
+      "created": "2022-10-09",
+      "order": 0
+    }
+  ]
+}
